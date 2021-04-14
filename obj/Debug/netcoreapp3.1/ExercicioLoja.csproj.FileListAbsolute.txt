@@ -1,0 +1,13 @@
+D:\C# Codes\ExercicioLoja\bin\Debug\netcoreapp3.1\ExercicioLoja.exe
+D:\C# Codes\ExercicioLoja\bin\Debug\netcoreapp3.1\ExercicioLoja.deps.json
+D:\C# Codes\ExercicioLoja\bin\Debug\netcoreapp3.1\ExercicioLoja.runtimeconfig.json
+D:\C# Codes\ExercicioLoja\bin\Debug\netcoreapp3.1\ExercicioLoja.runtimeconfig.dev.json
+D:\C# Codes\ExercicioLoja\bin\Debug\netcoreapp3.1\ExercicioLoja.dll
+D:\C# Codes\ExercicioLoja\bin\Debug\netcoreapp3.1\ExercicioLoja.pdb
+D:\C# Codes\ExercicioLoja\obj\Debug\netcoreapp3.1\ExercicioLoja.csprojAssemblyReference.cache
+D:\C# Codes\ExercicioLoja\obj\Debug\netcoreapp3.1\ExercicioLoja.AssemblyInfoInputs.cache
+D:\C# Codes\ExercicioLoja\obj\Debug\netcoreapp3.1\ExercicioLoja.AssemblyInfo.cs
+D:\C# Codes\ExercicioLoja\obj\Debug\netcoreapp3.1\ExercicioLoja.csproj.CoreCompileInputs.cache
+D:\C# Codes\ExercicioLoja\obj\Debug\netcoreapp3.1\ExercicioLoja.dll
+D:\C# Codes\ExercicioLoja\obj\Debug\netcoreapp3.1\ExercicioLoja.pdb
+D:\C# Codes\ExercicioLoja\obj\Debug\netcoreapp3.1\ExercicioLoja.genruntimeconfig.cache
