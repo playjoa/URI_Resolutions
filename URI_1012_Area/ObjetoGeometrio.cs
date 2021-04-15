@@ -2,7 +2,7 @@ using System;
 
 namespace Geometria
 {
- public abstract class ObjetoGeometrico
+    public abstract class ObjetoGeometrico
     {
         protected string nomeObjeto;
         public abstract double CalcularArea();

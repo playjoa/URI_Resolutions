@@ -1,5 +1,3 @@
-using System;
-
 namespace Geometria
 {
     public class Trapezio : ObjetoGeometrico
