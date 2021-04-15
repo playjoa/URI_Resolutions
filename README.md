@@ -1,4 +1,4 @@
-# URI Examples
+# URI Resolutions
 
 ## C# approach
 
