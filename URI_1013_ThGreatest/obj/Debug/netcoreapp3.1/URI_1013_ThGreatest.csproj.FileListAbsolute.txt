@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1013_ThGreatest\bin\Debug\netcoreapp3.1\URI_1013_ThGreatest.exe
+D:\C# Codes\URI_1013_ThGreatest\bin\Debug\netcoreapp3.1\URI_1013_ThGreatest.deps.json
+D:\C# Codes\URI_1013_ThGreatest\bin\Debug\netcoreapp3.1\URI_1013_ThGreatest.runtimeconfig.json
+D:\C# Codes\URI_1013_ThGreatest\bin\Debug\netcoreapp3.1\URI_1013_ThGreatest.runtimeconfig.dev.json
+D:\C# Codes\URI_1013_ThGreatest\bin\Debug\netcoreapp3.1\URI_1013_ThGreatest.dll
+D:\C# Codes\URI_1013_ThGreatest\bin\Debug\netcoreapp3.1\URI_1013_ThGreatest.pdb
+D:\C# Codes\URI_1013_ThGreatest\obj\Debug\netcoreapp3.1\URI_1013_ThGreatest.csprojAssemblyReference.cache
+D:\C# Codes\URI_1013_ThGreatest\obj\Debug\netcoreapp3.1\URI_1013_ThGreatest.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1013_ThGreatest\obj\Debug\netcoreapp3.1\URI_1013_ThGreatest.AssemblyInfo.cs
+D:\C# Codes\URI_1013_ThGreatest\obj\Debug\netcoreapp3.1\URI_1013_ThGreatest.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1013_ThGreatest\obj\Debug\netcoreapp3.1\URI_1013_ThGreatest.dll
+D:\C# Codes\URI_1013_ThGreatest\obj\Debug\netcoreapp3.1\URI_1013_ThGreatest.pdb
+D:\C# Codes\URI_1013_ThGreatest\obj\Debug\netcoreapp3.1\URI_1013_ThGreatest.genruntimeconfig.cache
