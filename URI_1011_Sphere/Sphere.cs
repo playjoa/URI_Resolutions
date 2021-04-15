@@ -22,8 +22,6 @@ namespace Geometry3D
         {
             return "VOLUME = " + GetVolume().ToString("0.000");
         }
-    }
-
-    
+    } 
 }
 
