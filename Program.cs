@@ -10,14 +10,14 @@ public class Program
     {
         Carrinho carrinhoComprasAtual = new Carrinho();
 
-        List<ProdutoNoCarrinho> produtosCarrinho = LerCodigosParaOCarrinho(2);
+        List<ProdutoNoCarrinho> produtosCarrinho = GerarListaProdutosLendoCodigo(int;
         carrinhoComprasAtual.ReceberListaProdutos(produtosCarrinho);
         carrinhoComprasAtual.ListarTotalAPagar();
 
         Console.ReadKey();
     }
 
-    public static List<ProdutoNoCarrinho> LerCodigosParaOCarrinho(int qtdProdutosParaLer)
+    public static List<ProdutoNoCarrinho> GerarListaProdutosLendoCodigo(int qtdProdutosParaLer)
     {
         List<ProdutoNoCarrinho> produtosCarrinho = new List<ProdutoNoCarrinho>();
 
