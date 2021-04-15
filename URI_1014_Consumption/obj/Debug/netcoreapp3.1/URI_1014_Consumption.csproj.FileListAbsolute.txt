@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1014_Consumption\bin\Debug\netcoreapp3.1\URI_1014_Consumption.exe
+D:\C# Codes\URI_1014_Consumption\bin\Debug\netcoreapp3.1\URI_1014_Consumption.deps.json
+D:\C# Codes\URI_1014_Consumption\bin\Debug\netcoreapp3.1\URI_1014_Consumption.runtimeconfig.json
+D:\C# Codes\URI_1014_Consumption\bin\Debug\netcoreapp3.1\URI_1014_Consumption.runtimeconfig.dev.json
+D:\C# Codes\URI_1014_Consumption\bin\Debug\netcoreapp3.1\URI_1014_Consumption.dll
+D:\C# Codes\URI_1014_Consumption\bin\Debug\netcoreapp3.1\URI_1014_Consumption.pdb
+D:\C# Codes\URI_1014_Consumption\obj\Debug\netcoreapp3.1\URI_1014_Consumption.csprojAssemblyReference.cache
+D:\C# Codes\URI_1014_Consumption\obj\Debug\netcoreapp3.1\URI_1014_Consumption.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1014_Consumption\obj\Debug\netcoreapp3.1\URI_1014_Consumption.AssemblyInfo.cs
+D:\C# Codes\URI_1014_Consumption\obj\Debug\netcoreapp3.1\URI_1014_Consumption.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1014_Consumption\obj\Debug\netcoreapp3.1\URI_1014_Consumption.dll
+D:\C# Codes\URI_1014_Consumption\obj\Debug\netcoreapp3.1\URI_1014_Consumption.pdb
+D:\C# Codes\URI_1014_Consumption\obj\Debug\netcoreapp3.1\URI_1014_Consumption.genruntimeconfig.cache
