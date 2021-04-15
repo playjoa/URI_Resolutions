@@ -1,4 +1,4 @@
-# URI_1010_Simple_Calculate
+# URI_1012_Area
 
 ## C# approach
 
