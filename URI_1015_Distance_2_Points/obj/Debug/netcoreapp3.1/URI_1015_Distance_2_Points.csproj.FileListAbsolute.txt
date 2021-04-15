@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1015_Distance_2_Points\bin\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.exe
+D:\C# Codes\URI_1015_Distance_2_Points\bin\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.deps.json
+D:\C# Codes\URI_1015_Distance_2_Points\bin\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.runtimeconfig.json
+D:\C# Codes\URI_1015_Distance_2_Points\bin\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.runtimeconfig.dev.json
+D:\C# Codes\URI_1015_Distance_2_Points\bin\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.dll
+D:\C# Codes\URI_1015_Distance_2_Points\bin\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.pdb
+D:\C# Codes\URI_1015_Distance_2_Points\obj\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.csprojAssemblyReference.cache
+D:\C# Codes\URI_1015_Distance_2_Points\obj\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1015_Distance_2_Points\obj\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.AssemblyInfo.cs
+D:\C# Codes\URI_1015_Distance_2_Points\obj\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1015_Distance_2_Points\obj\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.dll
+D:\C# Codes\URI_1015_Distance_2_Points\obj\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.pdb
+D:\C# Codes\URI_1015_Distance_2_Points\obj\Debug\netcoreapp3.1\URI_1015_Distance_2_Points.genruntimeconfig.cache

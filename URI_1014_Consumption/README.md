@@ -2,7 +2,7 @@
 
 ## C# approach
 
-<strong> <a href='https://www.urionlinejudge.com.br/judge/en/runs/code/22353316'> LINK </a> </strong>  <br>
+<strong> <a href='https://www.urionlinejudge.com.br/judge/en/problems/view/1014'> LINK </a> </strong>  <br>
 Calculate a car's average consumption being provided the total distance traveled (in Km) and the spent fuel total (in liters).
 
 ## Input <br>
