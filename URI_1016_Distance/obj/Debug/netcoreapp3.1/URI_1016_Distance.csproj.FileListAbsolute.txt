@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1016_Distance\bin\Debug\netcoreapp3.1\URI_1016_Distance.exe
+D:\C# Codes\URI_1016_Distance\bin\Debug\netcoreapp3.1\URI_1016_Distance.deps.json
+D:\C# Codes\URI_1016_Distance\bin\Debug\netcoreapp3.1\URI_1016_Distance.runtimeconfig.json
+D:\C# Codes\URI_1016_Distance\bin\Debug\netcoreapp3.1\URI_1016_Distance.runtimeconfig.dev.json
+D:\C# Codes\URI_1016_Distance\bin\Debug\netcoreapp3.1\URI_1016_Distance.dll
+D:\C# Codes\URI_1016_Distance\bin\Debug\netcoreapp3.1\URI_1016_Distance.pdb
+D:\C# Codes\URI_1016_Distance\obj\Debug\netcoreapp3.1\URI_1016_Distance.csprojAssemblyReference.cache
+D:\C# Codes\URI_1016_Distance\obj\Debug\netcoreapp3.1\URI_1016_Distance.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1016_Distance\obj\Debug\netcoreapp3.1\URI_1016_Distance.AssemblyInfo.cs
+D:\C# Codes\URI_1016_Distance\obj\Debug\netcoreapp3.1\URI_1016_Distance.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1016_Distance\obj\Debug\netcoreapp3.1\URI_1016_Distance.dll
+D:\C# Codes\URI_1016_Distance\obj\Debug\netcoreapp3.1\URI_1016_Distance.pdb
+D:\C# Codes\URI_1016_Distance\obj\Debug\netcoreapp3.1\URI_1016_Distance.genruntimeconfig.cache
