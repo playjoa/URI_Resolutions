@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Codes\\ExercicioLoja\\ExercicioLoja.csproj",
+      "projectUniqueName": "D:\\Git Repositories\\URI_Examples\\URI_1010_Simple_Calculate\\ExercicioLoja.csproj",
       "projectName": "ExercicioLoja",
-      "projectPath": "D:\\C# Codes\\ExercicioLoja\\ExercicioLoja.csproj",
+      "projectPath": "D:\\Git Repositories\\URI_Examples\\URI_1010_Simple_Calculate\\ExercicioLoja.csproj",
       "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Codes\\ExercicioLoja\\obj\\",
+      "outputPath": "D:\\Git Repositories\\URI_Examples\\URI_1010_Simple_Calculate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
