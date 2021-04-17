@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1019_Time_Conversion\bin\Debug\netcoreapp3.1\URI_1019_Time_Conversion.exe
+D:\C# Codes\URI_1019_Time_Conversion\bin\Debug\netcoreapp3.1\URI_1019_Time_Conversion.deps.json
+D:\C# Codes\URI_1019_Time_Conversion\bin\Debug\netcoreapp3.1\URI_1019_Time_Conversion.runtimeconfig.json
+D:\C# Codes\URI_1019_Time_Conversion\bin\Debug\netcoreapp3.1\URI_1019_Time_Conversion.runtimeconfig.dev.json
+D:\C# Codes\URI_1019_Time_Conversion\bin\Debug\netcoreapp3.1\URI_1019_Time_Conversion.dll
+D:\C# Codes\URI_1019_Time_Conversion\bin\Debug\netcoreapp3.1\URI_1019_Time_Conversion.pdb
+D:\C# Codes\URI_1019_Time_Conversion\obj\Debug\netcoreapp3.1\URI_1019_Time_Conversion.csprojAssemblyReference.cache
+D:\C# Codes\URI_1019_Time_Conversion\obj\Debug\netcoreapp3.1\URI_1019_Time_Conversion.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1019_Time_Conversion\obj\Debug\netcoreapp3.1\URI_1019_Time_Conversion.AssemblyInfo.cs
+D:\C# Codes\URI_1019_Time_Conversion\obj\Debug\netcoreapp3.1\URI_1019_Time_Conversion.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1019_Time_Conversion\obj\Debug\netcoreapp3.1\URI_1019_Time_Conversion.dll
+D:\C# Codes\URI_1019_Time_Conversion\obj\Debug\netcoreapp3.1\URI_1019_Time_Conversion.pdb
+D:\C# Codes\URI_1019_Time_Conversion\obj\Debug\netcoreapp3.1\URI_1019_Time_Conversion.genruntimeconfig.cache
