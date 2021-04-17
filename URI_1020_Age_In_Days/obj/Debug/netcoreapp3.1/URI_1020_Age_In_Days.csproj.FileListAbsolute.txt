@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1020_Age_In_Days\bin\Debug\netcoreapp3.1\URI_1020_Age_In_Days.exe
+D:\C# Codes\URI_1020_Age_In_Days\bin\Debug\netcoreapp3.1\URI_1020_Age_In_Days.deps.json
+D:\C# Codes\URI_1020_Age_In_Days\bin\Debug\netcoreapp3.1\URI_1020_Age_In_Days.runtimeconfig.json
+D:\C# Codes\URI_1020_Age_In_Days\bin\Debug\netcoreapp3.1\URI_1020_Age_In_Days.runtimeconfig.dev.json
+D:\C# Codes\URI_1020_Age_In_Days\bin\Debug\netcoreapp3.1\URI_1020_Age_In_Days.dll
+D:\C# Codes\URI_1020_Age_In_Days\bin\Debug\netcoreapp3.1\URI_1020_Age_In_Days.pdb
+D:\C# Codes\URI_1020_Age_In_Days\obj\Debug\netcoreapp3.1\URI_1020_Age_In_Days.csprojAssemblyReference.cache
+D:\C# Codes\URI_1020_Age_In_Days\obj\Debug\netcoreapp3.1\URI_1020_Age_In_Days.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1020_Age_In_Days\obj\Debug\netcoreapp3.1\URI_1020_Age_In_Days.AssemblyInfo.cs
+D:\C# Codes\URI_1020_Age_In_Days\obj\Debug\netcoreapp3.1\URI_1020_Age_In_Days.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1020_Age_In_Days\obj\Debug\netcoreapp3.1\URI_1020_Age_In_Days.dll
+D:\C# Codes\URI_1020_Age_In_Days\obj\Debug\netcoreapp3.1\URI_1020_Age_In_Days.pdb
+D:\C# Codes\URI_1020_Age_In_Days\obj\Debug\netcoreapp3.1\URI_1020_Age_In_Days.genruntimeconfig.cache
