@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1018_Banknotes\bin\Debug\netcoreapp3.1\URI_1018_Banknotes.exe
+D:\C# Codes\URI_1018_Banknotes\bin\Debug\netcoreapp3.1\URI_1018_Banknotes.deps.json
+D:\C# Codes\URI_1018_Banknotes\bin\Debug\netcoreapp3.1\URI_1018_Banknotes.runtimeconfig.json
+D:\C# Codes\URI_1018_Banknotes\bin\Debug\netcoreapp3.1\URI_1018_Banknotes.runtimeconfig.dev.json
+D:\C# Codes\URI_1018_Banknotes\bin\Debug\netcoreapp3.1\URI_1018_Banknotes.dll
+D:\C# Codes\URI_1018_Banknotes\bin\Debug\netcoreapp3.1\URI_1018_Banknotes.pdb
+D:\C# Codes\URI_1018_Banknotes\obj\Debug\netcoreapp3.1\URI_1018_Banknotes.csprojAssemblyReference.cache
+D:\C# Codes\URI_1018_Banknotes\obj\Debug\netcoreapp3.1\URI_1018_Banknotes.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1018_Banknotes\obj\Debug\netcoreapp3.1\URI_1018_Banknotes.AssemblyInfo.cs
+D:\C# Codes\URI_1018_Banknotes\obj\Debug\netcoreapp3.1\URI_1018_Banknotes.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1018_Banknotes\obj\Debug\netcoreapp3.1\URI_1018_Banknotes.dll
+D:\C# Codes\URI_1018_Banknotes\obj\Debug\netcoreapp3.1\URI_1018_Banknotes.pdb
+D:\C# Codes\URI_1018_Banknotes\obj\Debug\netcoreapp3.1\URI_1018_Banknotes.genruntimeconfig.cache

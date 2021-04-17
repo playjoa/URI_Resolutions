@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "URI_1017_Fuel_Spent/1.0.0": {
+        "runtime": {
+          "URI_1017_Fuel_Spent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI_1017_Fuel_Spent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1017_Fuel_Spent\bin\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.exe
+D:\C# Codes\URI_1017_Fuel_Spent\bin\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.deps.json
+D:\C# Codes\URI_1017_Fuel_Spent\bin\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.runtimeconfig.json
+D:\C# Codes\URI_1017_Fuel_Spent\bin\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.runtimeconfig.dev.json
+D:\C# Codes\URI_1017_Fuel_Spent\bin\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.dll
+D:\C# Codes\URI_1017_Fuel_Spent\bin\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.pdb
+D:\C# Codes\URI_1017_Fuel_Spent\obj\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.csprojAssemblyReference.cache
+D:\C# Codes\URI_1017_Fuel_Spent\obj\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1017_Fuel_Spent\obj\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.AssemblyInfo.cs
+D:\C# Codes\URI_1017_Fuel_Spent\obj\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1017_Fuel_Spent\obj\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.dll
+D:\C# Codes\URI_1017_Fuel_Spent\obj\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.pdb
+D:\C# Codes\URI_1017_Fuel_Spent\obj\Debug\netcoreapp3.1\URI_1017_Fuel_Spent.genruntimeconfig.cache
