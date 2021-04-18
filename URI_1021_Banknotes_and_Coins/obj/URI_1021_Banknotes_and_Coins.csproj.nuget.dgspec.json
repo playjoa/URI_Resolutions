@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git Repositories\\URI_Examples\\URI_1021_Banknotes_and_Coins\\URI_1021_Banknotes_and_Coins.csproj": {}
+  },
+  "projects": {
+    "D:\\Git Repositories\\URI_Examples\\URI_1021_Banknotes_and_Coins\\URI_1021_Banknotes_and_Coins.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Repositories\\URI_Examples\\URI_1021_Banknotes_and_Coins\\URI_1021_Banknotes_and_Coins.csproj",
+        "projectName": "URI_1021_Banknotes_and_Coins",
+        "projectPath": "D:\\Git Repositories\\URI_Examples\\URI_1021_Banknotes_and_Coins\\URI_1021_Banknotes_and_Coins.csproj",
+        "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Repositories\\URI_Examples\\URI_1021_Banknotes_and_Coins\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

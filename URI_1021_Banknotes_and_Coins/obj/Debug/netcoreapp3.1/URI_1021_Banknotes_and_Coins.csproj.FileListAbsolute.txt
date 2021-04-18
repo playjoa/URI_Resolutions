@@ -1,0 +1,13 @@
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\bin\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.exe
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\bin\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.deps.json
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\bin\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.runtimeconfig.json
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\bin\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.runtimeconfig.dev.json
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\bin\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.dll
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\bin\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.pdb
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\obj\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.csprojAssemblyReference.cache
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\obj\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.AssemblyInfoInputs.cache
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\obj\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.AssemblyInfo.cs
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\obj\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.csproj.CoreCompileInputs.cache
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\obj\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.dll
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\obj\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.pdb
+D:\Git Repositories\URI_Examples\URI_1021_Banknotes_and_Coins\obj\Debug\netcoreapp3.1\URI_1021_Banknotes_and_Coins.genruntimeconfig.cache
