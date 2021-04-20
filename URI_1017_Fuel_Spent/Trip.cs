@@ -2,23 +2,23 @@ using System;
 
 namespace Navegation
 {
-    public static class InputSystem
+    public class Trip
     {
-        public static int ReadIntNumber()
+        private int horas_Trip;
+        private int velocidadeMedia_Trip;
+
+        public Trip(int horas_Trip, int velocidadeMedia_Trip)
         {
-            string inputString = Console.ReadLine();
-            return Convert.ToInt32(inputString);
+            this.horas_Trip = horas_Trip;
+            this.velocidadeMedia_Trip = velocidadeMedia_Trip;
         }
 
-        public static string ReadLine()
-        {
-            return Console.ReadLine();
-        }
+        public int Horas_Trip { get => horas_Trip; }
+        public int VelocidadeMedia_Trip { get => velocidadeMedia_Trip; }
 
-        public static double ReadDoubleNumber()
+        public double DistanciaTrip()
         {
-            string inputString = Console.ReadLine();
-            return double.Parse(inputString);
+            return velocidadeMedia_Trip * horas_Trip;
         }
     }
 }
