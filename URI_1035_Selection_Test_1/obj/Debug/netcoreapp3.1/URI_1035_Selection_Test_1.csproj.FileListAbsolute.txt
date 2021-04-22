@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1035_Selection_Test_1\bin\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.exe
+D:\C# Codes\URI_1035_Selection_Test_1\bin\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.deps.json
+D:\C# Codes\URI_1035_Selection_Test_1\bin\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.runtimeconfig.json
+D:\C# Codes\URI_1035_Selection_Test_1\bin\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.runtimeconfig.dev.json
+D:\C# Codes\URI_1035_Selection_Test_1\bin\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.dll
+D:\C# Codes\URI_1035_Selection_Test_1\bin\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.pdb
+D:\C# Codes\URI_1035_Selection_Test_1\obj\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.csprojAssemblyReference.cache
+D:\C# Codes\URI_1035_Selection_Test_1\obj\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1035_Selection_Test_1\obj\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.AssemblyInfo.cs
+D:\C# Codes\URI_1035_Selection_Test_1\obj\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1035_Selection_Test_1\obj\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.dll
+D:\C# Codes\URI_1035_Selection_Test_1\obj\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.pdb
+D:\C# Codes\URI_1035_Selection_Test_1\obj\Debug\netcoreapp3.1\URI_1035_Selection_Test_1.genruntimeconfig.cache
