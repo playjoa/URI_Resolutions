@@ -16,7 +16,6 @@ namespace Math.NumberCheck
                     result = false;
                     break;
                 }
-
             }
 
             if (result)
