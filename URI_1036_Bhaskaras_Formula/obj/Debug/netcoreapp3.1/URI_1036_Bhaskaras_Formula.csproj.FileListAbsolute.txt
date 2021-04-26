@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1036_Bhaskaras_Formula\bin\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.exe
+D:\C# Codes\URI_1036_Bhaskaras_Formula\bin\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.deps.json
+D:\C# Codes\URI_1036_Bhaskaras_Formula\bin\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.runtimeconfig.json
+D:\C# Codes\URI_1036_Bhaskaras_Formula\bin\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.runtimeconfig.dev.json
+D:\C# Codes\URI_1036_Bhaskaras_Formula\bin\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.dll
+D:\C# Codes\URI_1036_Bhaskaras_Formula\bin\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.pdb
+D:\C# Codes\URI_1036_Bhaskaras_Formula\obj\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.csprojAssemblyReference.cache
+D:\C# Codes\URI_1036_Bhaskaras_Formula\obj\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1036_Bhaskaras_Formula\obj\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.AssemblyInfo.cs
+D:\C# Codes\URI_1036_Bhaskaras_Formula\obj\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1036_Bhaskaras_Formula\obj\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.dll
+D:\C# Codes\URI_1036_Bhaskaras_Formula\obj\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.pdb
+D:\C# Codes\URI_1036_Bhaskaras_Formula\obj\Debug\netcoreapp3.1\URI_1036_Bhaskaras_Formula.genruntimeconfig.cache
