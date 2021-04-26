@@ -9,7 +9,7 @@ namespace URI_1020_Age_In_Days
         {
             int daysToConvert = InputSystem.ReadIntNumber();
 
-            AgeConverter.ConvertSecondsToTimerView(daysToConvert);
+            AgeConverter.ConvertAgeFromDays(daysToConvert);
 
             Console.ReadKey();
         }
