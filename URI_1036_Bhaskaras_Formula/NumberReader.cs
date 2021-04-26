@@ -9,7 +9,7 @@ namespace Input.NumberReader
             this.individualNumbersRead = linha_Lida.Split(' ');
         }
 
-        double ReturnIntFromNumbersRead(int idNumber)
+        double ReturnFromNumbersRead(int idNumber)
         {
             if (idNumber >= individualNumbersRead.Length)
                 return 0;
@@ -19,17 +19,17 @@ namespace Input.NumberReader
 
         public double Read_A()
         {
-            return ReturnIntFromNumbersRead(0);
+            return ReturnFromNumbersRead(0);
         }
 
         public double Read_B()
         {
-            return ReturnIntFromNumbersRead(1);
+            return ReturnFromNumbersRead(1);
         }
 
         public double Read_C()
         {
-            return ReturnIntFromNumbersRead(2);
+            return ReturnFromNumbersRead(2);
         }
     }
 }
