@@ -4,7 +4,7 @@ public static class AgeConverter
 {
     const int days_in_Year = 365, days_in_Month = 30;
     
-    public static void ConvertSecondsToTimerView(int daysToConvert)
+    public static void ConvertAgeFromDays(int daysToConvert)
     {
         int daysLeft = daysToConvert;
 
