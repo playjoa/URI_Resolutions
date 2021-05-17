@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "URI_2702_Hard_Choice/1.0.0": {
+        "runtime": {
+          "URI_2702_Hard_Choice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI_2702_Hard_Choice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

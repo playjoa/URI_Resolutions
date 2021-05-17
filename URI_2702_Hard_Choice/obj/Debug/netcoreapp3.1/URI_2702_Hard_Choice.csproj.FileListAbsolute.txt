@@ -1,0 +1,13 @@
+D:\C# Codes\URI_2702_Hard_Choice\bin\Debug\netcoreapp3.1\URI_2702_Hard_Choice.exe
+D:\C# Codes\URI_2702_Hard_Choice\bin\Debug\netcoreapp3.1\URI_2702_Hard_Choice.deps.json
+D:\C# Codes\URI_2702_Hard_Choice\bin\Debug\netcoreapp3.1\URI_2702_Hard_Choice.runtimeconfig.json
+D:\C# Codes\URI_2702_Hard_Choice\bin\Debug\netcoreapp3.1\URI_2702_Hard_Choice.runtimeconfig.dev.json
+D:\C# Codes\URI_2702_Hard_Choice\bin\Debug\netcoreapp3.1\URI_2702_Hard_Choice.dll
+D:\C# Codes\URI_2702_Hard_Choice\bin\Debug\netcoreapp3.1\URI_2702_Hard_Choice.pdb
+D:\C# Codes\URI_2702_Hard_Choice\obj\Debug\netcoreapp3.1\URI_2702_Hard_Choice.csprojAssemblyReference.cache
+D:\C# Codes\URI_2702_Hard_Choice\obj\Debug\netcoreapp3.1\URI_2702_Hard_Choice.AssemblyInfoInputs.cache
+D:\C# Codes\URI_2702_Hard_Choice\obj\Debug\netcoreapp3.1\URI_2702_Hard_Choice.AssemblyInfo.cs
+D:\C# Codes\URI_2702_Hard_Choice\obj\Debug\netcoreapp3.1\URI_2702_Hard_Choice.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_2702_Hard_Choice\obj\Debug\netcoreapp3.1\URI_2702_Hard_Choice.dll
+D:\C# Codes\URI_2702_Hard_Choice\obj\Debug\netcoreapp3.1\URI_2702_Hard_Choice.pdb
+D:\C# Codes\URI_2702_Hard_Choice\obj\Debug\netcoreapp3.1\URI_2702_Hard_Choice.genruntimeconfig.cache
