@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1037_Interval\bin\Debug\netcoreapp3.1\URI_1037_Interval.exe
+D:\C# Codes\URI_1037_Interval\bin\Debug\netcoreapp3.1\URI_1037_Interval.deps.json
+D:\C# Codes\URI_1037_Interval\bin\Debug\netcoreapp3.1\URI_1037_Interval.runtimeconfig.json
+D:\C# Codes\URI_1037_Interval\bin\Debug\netcoreapp3.1\URI_1037_Interval.runtimeconfig.dev.json
+D:\C# Codes\URI_1037_Interval\bin\Debug\netcoreapp3.1\URI_1037_Interval.dll
+D:\C# Codes\URI_1037_Interval\bin\Debug\netcoreapp3.1\URI_1037_Interval.pdb
+D:\C# Codes\URI_1037_Interval\obj\Debug\netcoreapp3.1\URI_1037_Interval.csprojAssemblyReference.cache
+D:\C# Codes\URI_1037_Interval\obj\Debug\netcoreapp3.1\URI_1037_Interval.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1037_Interval\obj\Debug\netcoreapp3.1\URI_1037_Interval.AssemblyInfo.cs
+D:\C# Codes\URI_1037_Interval\obj\Debug\netcoreapp3.1\URI_1037_Interval.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1037_Interval\obj\Debug\netcoreapp3.1\URI_1037_Interval.dll
+D:\C# Codes\URI_1037_Interval\obj\Debug\netcoreapp3.1\URI_1037_Interval.pdb
+D:\C# Codes\URI_1037_Interval\obj\Debug\netcoreapp3.1\URI_1037_Interval.genruntimeconfig.cache
