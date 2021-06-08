@@ -1,0 +1,13 @@
+D:\C# Codes\URI_1038_Snack\bin\Debug\netcoreapp3.1\URI_1038_Snack.exe
+D:\C# Codes\URI_1038_Snack\bin\Debug\netcoreapp3.1\URI_1038_Snack.deps.json
+D:\C# Codes\URI_1038_Snack\bin\Debug\netcoreapp3.1\URI_1038_Snack.runtimeconfig.json
+D:\C# Codes\URI_1038_Snack\bin\Debug\netcoreapp3.1\URI_1038_Snack.runtimeconfig.dev.json
+D:\C# Codes\URI_1038_Snack\bin\Debug\netcoreapp3.1\URI_1038_Snack.dll
+D:\C# Codes\URI_1038_Snack\bin\Debug\netcoreapp3.1\URI_1038_Snack.pdb
+D:\C# Codes\URI_1038_Snack\obj\Debug\netcoreapp3.1\URI_1038_Snack.csprojAssemblyReference.cache
+D:\C# Codes\URI_1038_Snack\obj\Debug\netcoreapp3.1\URI_1038_Snack.AssemblyInfoInputs.cache
+D:\C# Codes\URI_1038_Snack\obj\Debug\netcoreapp3.1\URI_1038_Snack.AssemblyInfo.cs
+D:\C# Codes\URI_1038_Snack\obj\Debug\netcoreapp3.1\URI_1038_Snack.csproj.CoreCompileInputs.cache
+D:\C# Codes\URI_1038_Snack\obj\Debug\netcoreapp3.1\URI_1038_Snack.dll
+D:\C# Codes\URI_1038_Snack\obj\Debug\netcoreapp3.1\URI_1038_Snack.pdb
+D:\C# Codes\URI_1038_Snack\obj\Debug\netcoreapp3.1\URI_1038_Snack.genruntimeconfig.cache
