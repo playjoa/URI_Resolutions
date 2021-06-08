@@ -2,7 +2,7 @@ using System;
 
 namespace Barcodes
 {
-        public class BarCodeReader
+    public class BarCodeReader
     {
         private string[] _individualNumbersRead;
 
